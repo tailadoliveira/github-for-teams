@@ -1,1 +1,1 @@
-# github-for-times
+# github-for-teams
